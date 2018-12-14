@@ -1,0 +1,12 @@
+{
+  "name": "datatables-export",
+  "_release": "b44a4773cd",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "b44a4773cd9c5ed2826950f144a01158a49054fd"
+  },
+  "_source": "https://mohit143k@bitbucket.org/mohit143k/datatables-export.git",
+  "_target": "*",
+  "_originalSource": "https://mohit143k@bitbucket.org/mohit143k/datatables-export.git"
+}

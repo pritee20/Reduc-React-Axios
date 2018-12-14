@@ -1,0 +1,707 @@
+{
+  "user": {
+    "token": "dL42ykE4k3TrAHmqmiQGO33CBXIkHpdlmI538YGaJdwwIudVa1eIDZkJoQCFfLq6",
+    "userName": "1701",
+    "userAccess": {
+      "userAccesses": [
+        {
+          "accessTitle": "ADMIN_MANAGE",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "ADMIN_REPORT",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "CHECKED_IN",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "CHECKED_OUT",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "CHECKOUT_VALET_NAME",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "EDIT_DISCONTINUED",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "FOC",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "HIDDEN_FOC_REPORT",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "HIDDEN_TT_REPORT",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "KIOSK_Kumbh",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "LAKEERON_KA_BADSHAH",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "LOST_TICKET",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "N_FACTORED_REPORT",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "OFFLINE_RECIEPT_NUMBER_NUMERIC",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "PASS_ADD",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "PASS_RFID",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "REPORT_COMPANY",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "REPORT_GRAPH",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "REPORT_PASS",
+          "userName": "1701"
+        },
+        {
+          "accessTitle": "VALET",
+          "userName": "1701"
+        }
+      ],
+      "companyIds": [
+        7,
+        8,
+        1461
+      ],
+      "parkingIds": [
+        13,
+        15,
+        1384
+      ],
+      "parkingLotIds": [
+        16,
+        18,
+        1380
+      ],
+      "parkingSubLotIds": [
+        38,
+        39,
+        54,
+        55,
+        42,
+        43,
+        2971
+      ]
+    },
+    "userAccessNamed": {
+      "companyAccess": [
+        {
+          "id": 7,
+          "name": "SA Parking",
+          "parkings": [
+            {
+              "id": 13,
+              "name": "BCEC - Front"
+            }
+          ],
+          "parkingLots": [
+            {
+              "id": 16,
+              "name": "BCEC - Front"
+            }
+          ],
+          "parkingSubLots": [
+            {
+              "id": 38,
+              "type": "CAR"
+            },
+            {
+              "id": 39,
+              "type": "BIKE"
+            },
+            {
+              "id": 54,
+              "type": "CAR_12"
+            },
+            {
+              "id": 55,
+              "type": "CAR_24"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "SP",
+          "parkings": [
+            {
+              "id": 15,
+              "name": "KPMG parking"
+            }
+          ],
+          "parkingLots": [
+            {
+              "id": 18,
+              "name": "KPMG Parking Lot"
+            }
+          ],
+          "parkingSubLots": [
+            {
+              "id": 42,
+              "type": "CAR"
+            },
+            {
+              "id": 43,
+              "type": "BIKE"
+            }
+          ]
+        },
+        {
+          "id": 1461,
+          "name": "ASN parking",
+          "parkings": [
+            {
+              "id": 1384,
+              "name": "Rahul sharma manager"
+            }
+          ],
+          "parkingLots": [
+            {
+              "id": 1380,
+              "name": "1, Press Enclave Road, Saket"
+            }
+          ],
+          "parkingSubLots": [
+            {
+              "id": 2971,
+              "type": "BIKE"
+            }
+          ]
+        }
+      ],
+      "parkingAccess": [
+        {
+          "id": 13,
+          "name": "BCEC - Front",
+          "parkingLots": [
+            {
+              "id": 16,
+              "name": "BCEC - Front"
+            }
+          ],
+          "parkingSubLots": [
+            {
+              "id": 38,
+              "type": "CAR"
+            },
+            {
+              "id": 39,
+              "type": "BIKE"
+            },
+            {
+              "id": 54,
+              "type": "CAR_12"
+            },
+            {
+              "id": 55,
+              "type": "CAR_24"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "KPMG parking",
+          "parkingLots": [
+            {
+              "id": 18,
+              "name": "KPMG Parking Lot"
+            }
+          ],
+          "parkingSubLots": [
+            {
+              "id": 42,
+              "type": "CAR"
+            },
+            {
+              "id": 43,
+              "type": "BIKE"
+            }
+          ]
+        },
+        {
+          "id": 1384,
+          "name": "Rahul sharma manager",
+          "parkingLots": [
+            {
+              "id": 1380,
+              "name": "1, Press Enclave Road, Saket"
+            }
+          ],
+          "parkingSubLots": [
+            {
+              "id": 2971,
+              "type": "BIKE"
+            }
+          ]
+        }
+      ],
+      "parkingLotsAccess": [
+        {
+          "id": 16,
+          "name": "BCEC - Front",
+          "parkingSubLots": [
+            {
+              "id": 38,
+              "type": "CAR"
+            },
+            {
+              "id": 39,
+              "type": "BIKE"
+            },
+            {
+              "id": 54,
+              "type": "CAR_12"
+            },
+            {
+              "id": 55,
+              "type": "CAR_24"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "KPMG Parking Lot",
+          "parkingSubLots": [
+            {
+              "id": 42,
+              "type": "CAR"
+            },
+            {
+              "id": 43,
+              "type": "BIKE"
+            }
+          ]
+        },
+        {
+          "id": 1380,
+          "name": "1, Press Enclave Road, Saket",
+          "parkingSubLots": [
+            {
+              "id": 2971,
+              "type": "BIKE"
+            }
+          ]
+        }
+      ],
+      "parkingSubLotsAccess": [
+        {
+          "id": 38,
+          "type": "CAR"
+        },
+        {
+          "id": 39,
+          "type": "BIKE"
+        },
+        {
+          "id": 54,
+          "type": "CAR_12"
+        },
+        {
+          "id": 55,
+          "type": "CAR_24"
+        },
+        {
+          "id": 42,
+          "type": "CAR"
+        },
+        {
+          "id": 43,
+          "type": "BIKE"
+        },
+        {
+          "id": 2971,
+          "type": "BIKE"
+        }
+      ]
+    },
+    "isAuthenticated": true,
+    "isAuthenticating": false,
+    "statusText": "You have been successfully logged in.",
+    "redirectPath": null
+  },
+  "manage": {
+    "company": {
+      "data": [],
+      "showProgress": false,
+      "searchSuggestions": []
+    },
+    "user": {
+      "searchSuggestions": [],
+      "selectedParkingSubLots": [],
+      "selectedUserAccesses": [],
+      "showAddParkingSubLotAccessProgress": false,
+      "showAddUserAccessProgress": false,
+      "userB2BData": [],
+      "userB2BDataFetchProgress": false,
+      "userB2BSearchSuggestions": []
+    },
+    "companyHeader": {
+      "id": 1,
+      "name": "Panache Parki9om,.m.klnln",
+      "city": "Delhinkln",
+      "email": "chirag@getmyparking.com",
+      "contactNumber": "011-22721153ml",
+      "contractor": "",
+      "website": "",
+      "address": "B2/nkllnlnln",
+      "deleted": 0,
+      "showModal": false,
+      "merchantId": "1mml;lm"
+    },
+    "parkingLot": {
+      "parkingLotSearchSuggestions": [],
+      "parkingLotData": [],
+      "showAddParkingLotModal": false,
+      "showEditParkingLotModal": false,
+      "parkingTypes": [],
+      "ticketingSystems": [],
+      "parkingAreaTypes": [],
+      "showProgress": false
+    },
+    "parking": {
+      "parkingData": [
+        {
+          "id": 1,
+          "name": "Panache 11213nnlkn",
+          "address": "Sec 25A Noida  M:09910683855",
+          "city": "Noida",
+          "contactNumber": "9943556789",
+          "companyId": 1,
+          "category": null,
+          "landmark": "",
+          "bookingState": "BOOKABLE",
+          "createdBy": null,
+          "updatedBy": "1701",
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2017-02-16T10:39:18.000Z",
+          "deleted": 0,
+          "nFactor": 1,
+          "nFactorCount": 1
+        },
+        {
+          "id": 5,
+          "name": "Panache 2",
+          "address": "testvd",
+          "city": "lucknow",
+          "contactNumber": "Mohit",
+          "companyId": 1,
+          "category": "Corporate/Office",
+          "landmark": "sfdsv",
+          "bookingState": "DEPLOYED_NOT_BOOKABLE",
+          "createdBy": null,
+          "updatedBy": "1701",
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2017-02-16T10:39:41.000Z",
+          "deleted": 0,
+          "nFactor": 0.5,
+          "nFactorCount": 1
+        },
+        {
+          "id": 14,
+          "name": "District Centre Demo",
+          "address": "Saket",
+          "city": "Delhi",
+          "contactNumber": null,
+          "companyId": 1,
+          "category": null,
+          "landmark": null,
+          "bookingState": "BOOKABLE",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2016-11-21T07:20:56.000Z",
+          "deleted": 0,
+          "nFactor": 0.5,
+          "nFactorCount": 1
+        },
+        {
+          "id": 17,
+          "name": "Arya Samaj Road",
+          "address": "Karol Bagh",
+          "city": "Delhi",
+          "contactNumber": null,
+          "companyId": 1,
+          "category": null,
+          "landmark": null,
+          "bookingState": "NOT_DEPLOYED",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2016-06-22T09:37:52.000Z",
+          "deleted": 0,
+          "nFactor": 1,
+          "nFactorCount": 1
+        },
+        {
+          "id": 18,
+          "name": "Tibetan Market Monastery konichiwa",
+          "address": "Civil Line Zone",
+          "city": "Delhi",
+          "contactNumber": "",
+          "companyId": 1,
+          "category": null,
+          "landmark": "",
+          "bookingState": "NOT_DEPLOYED",
+          "createdBy": null,
+          "updatedBy": "1701",
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2017-02-06T01:02:12.000Z",
+          "deleted": 0,
+          "nFactor": 1,
+          "nFactorCount": 1
+        },
+        {
+          "id": 19,
+          "name": "Tilak Nagar",
+          "address": "Tilak Nagar",
+          "city": "Delhi",
+          "contactNumber": null,
+          "companyId": 1,
+          "category": null,
+          "landmark": null,
+          "bookingState": "NOT_DEPLOYED",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2016-06-22T09:37:52.000Z",
+          "deleted": 0,
+          "nFactor": 1,
+          "nFactorCount": 1
+        },
+        {
+          "id": 41,
+          "name": "Azadpur Metro",
+          "address": "Azadpur",
+          "city": "Delhi",
+          "contactNumber": null,
+          "companyId": 1,
+          "category": null,
+          "landmark": null,
+          "bookingState": "DEPLOYED_NOT_BOOKABLE",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-02-02T19:35:47.000Z",
+          "updatedAt": "2016-06-22T10:22:29.000Z",
+          "deleted": 0,
+          "nFactor": 1,
+          "nFactorCount": 1
+        },
+        {
+          "id": 2997,
+          "name": "Test Parking",
+          "address": "DC,Janakpuri",
+          "city": "Delhi",
+          "contactNumber": "9999234786",
+          "companyId": 1,
+          "category": "Market",
+          "landmark": "Near janakpuri west metro",
+          "bookingState": "BOOKABLE",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-10-17T10:19:18.000Z",
+          "updatedAt": "2016-10-17T10:19:18.000Z",
+          "deleted": 0,
+          "nFactor": 0.5,
+          "nFactorCount": 0.5
+        },
+        {
+          "id": 2998,
+          "name": "New Parking Data",
+          "address": "f-5,Cant Area",
+          "city": "Delhi",
+          "contactNumber": "8712131123",
+          "companyId": 1,
+          "category": "Residential",
+          "landmark": "Near Dhaula Kuan",
+          "bookingState": "DEPLOYED_NOT_BOOKABLE",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-10-18T14:49:06.000Z",
+          "updatedAt": "2016-10-18T14:49:06.000Z",
+          "deleted": 0,
+          "nFactor": 0.4,
+          "nFactorCount": 0.78
+        },
+        {
+          "id": 3002,
+          "name": "Test ASSSAWW",
+          "address": "dsada,Sdsad",
+          "city": "Mumbai",
+          "contactNumber": "9876234567",
+          "companyId": 1,
+          "category": "Airport",
+          "landmark": "Newewe",
+          "bookingState": "BOOKABLE",
+          "createdBy": null,
+          "updatedBy": null,
+          "createdAt": "2016-10-18T15:43:32.000Z",
+          "updatedAt": "2016-10-18T15:43:32.000Z",
+          "deleted": 0,
+          "nFactor": 0.4,
+          "nFactorCount": 1
+        }
+      ],
+      "parkingCategories": [
+        "Airport",
+        "Bus Station",
+        "Corporate/Office",
+        "Educational Institute",
+        "Event venue",
+        "Hotel",
+        "Mall",
+        "Market",
+        "Metro Station",
+        "Miscellaneous",
+        "Residential",
+        "Shopping Complex",
+        "Train Station"
+      ],
+      "parkingBookingStates": [
+        "BOOKABLE",
+        "DEPLOYED_NOT_BOOKABLE",
+        "NOT_DEPLOYED"
+      ],
+      "showProgress": false,
+      "showAddParkingModal": false,
+      "showEditParkingModal": false,
+      "parkingSearchSuggestions": [],
+      "count": 25
+    },
+    "parkingSubLot": {
+      "showAddParkingSubLotModal": false,
+      "subLotTypes": [],
+      "collectionModels": [],
+      "plateNumberTypes": [],
+      "parkingSubLotData": [],
+      "showProgress": false,
+      "showAddUserModal": false,
+      "showEditParkingSubLotModal": false
+    },
+    "companyHeaderModal": {
+      "showModal": false,
+      "id": 1,
+      "name": "Panache Parki9om,.m.klnln",
+      "city": "Delhinkln",
+      "email": "chirag@getmyparking.com",
+      "contactNumber": "011-22721153ml",
+      "contractor": "",
+      "website": "",
+      "address": "B2/nkllnlnln",
+      "deleted": 0,
+      "merchantId": "1mml;lm"
+    },
+    "editParkingModal": {},
+    "editParkingLotModal": {},
+    "editParkingSubLotModal": {},
+    "receiptContent": {
+      "receiptContents": {},
+      "valuesToAppend": [
+        "FEED",
+        "SUB_LOT_TYPE",
+        "REGISTRATION_NUMBER",
+        "DATE",
+        "COST",
+        "CHECKED_IN_TIME",
+        "CHECKED_OUT_TIME",
+        "BARCODE",
+        "DURATION"
+      ],
+      "sequencedReceiptContents": {},
+      "showModal": false
+    },
+    "duplicateReceiptContent": {
+      "rcParkingLots": []
+    },
+    "pricing": {
+      "data": []
+    },
+    "editUserModal": {
+      "showAddUserModal": false,
+      "showEditUserModal": false
+    }
+  },
+  "form": {},
+  "reports": {
+    "companyReports": {
+      "reportsData": null,
+      "isReportsData": false,
+      "isUserWise": false,
+      "usernames": [],
+      "isFetchingReports": false,
+      "fromDate": null,
+      "toDate": null,
+      "paymentMode": null,
+      "selectedConfig": {
+        "companyId": null,
+        "parkingId": null,
+        "parkingLotId": null,
+        "parkingSubLotId": null,
+        "username": null
+      }
+    },
+    "dayWiseReports": {
+      "reportsData": null,
+      "isReportsData": false,
+      "isUserWise": false,
+      "usernames": [],
+      "isFetchingReports": false,
+      "fromDate": null,
+      "toDate": null,
+      "paymentMode": null,
+      "selectedConfig": {
+        "companyId": null,
+        "parkingId": null,
+        "parkingLotId": null,
+        "parkingSubLotId": null,
+        "username": null
+      }
+    },
+    "operatorAppStatus": {
+      "selectedType": "CHECKED_IN,CHECKED_OUT"
+    }
+  },
+  "advanceReports": {},
+  "routing": {
+    "locationBeforeTransitions": {
+      "pathname": "/parking",
+      "search": "?companyId=1",
+      "hash": "",
+      "state": null,
+      "action": "PUSH",
+      "key": "q4xxew",
+      "query": {
+        "companyId": "1"
+      },
+      "$searchBase": {
+        "search": "?companyId=1",
+        "searchBase": ""
+      }
+    }
+  }
+}

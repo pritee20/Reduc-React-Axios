@@ -1,0 +1,20 @@
+/**
+ * Copyright  ( C )  2016-2017 GetMyParking - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential.
+ */
+
+const GET_COMPANIES_SUCCESS = 'manage/GET_COMPANIES_SUCCESS';
+const SET_TOTAL_COMPANY_COUNT = "manage/SET_TOTAL_COMPANY_COUNT";
+const NEW_COMPANY_ADDED = "manage/NEW_COMPANY_ADDED";
+const MAKING_NETWORK_REQUEST = "manage/MAKING_NETWORK_REQUEST";
+const GET_SEARCH_SUGGESTIONS_SUCCESS = "manage/GET_SEARCH_SUGGESTIONS_SUCCESS";
+const CLEAR_SEARCH_SUGGESTIONS = "manage/CLEAR_SEARCH_SUGGESTIONS";
+export default {
+    GET_COMPANIES_SUCCESS,
+    SET_TOTAL_COMPANY_COUNT,
+    GET_SEARCH_SUGGESTIONS_SUCCESS,
+    NEW_COMPANY_ADDED,
+    MAKING_NETWORK_REQUEST,
+    CLEAR_SEARCH_SUGGESTIONS
+};

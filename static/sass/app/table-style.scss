@@ -1,0 +1,82 @@
+table.pure-table {
+  width: 100%;
+  vertical-align: middle;
+  border-bottom: 1px solid #111;
+}
+
+.pure-table {
+  > thead > tr > th {
+    padding: 14px 8px;
+    color: #888;
+  }
+}
+
+.pure-table {
+  > tfoot > tr > td {
+    padding: 14px 8px;
+    color: #888;
+  }
+}
+
+table.pure-table > thead > tr > th {
+  padding: 14px 8px;
+  color: #888;
+}
+
+.parking-sublot-row {
+
+}
+
+.parking-sublot-row tbody tr {
+  cursor: auto !important;
+}
+
+table.pure-table > tbody > tr:nth-of-type(odd) {
+  background-color: #fafbfc;
+}
+
+table.pure-table tbody tr {
+  background-color: #fff;
+  cursor: pointer;
+}
+
+table.pure-table > tbody > tr > td, table.pure-table > tbody > tr > th {
+  padding: 8px;
+  line-height: 1.52857;
+  border-top: 1px solid #eee;
+}
+
+.pagify-pagination span {
+  margin: 0;
+  padding: .8em 1.2em .8em 1.2em;
+  cursor: pointer;
+  background: #ffffff;
+  border: 1px solid rgba(199, 199, 199, 0.55);
+  color: #000;
+  font-weight: 400;
+}
+
+.pagify-pagination .selected span {
+  background: #6a7af3;
+  color: #fff;
+}
+
+.pagify-pagination .ellipsis {
+  margin-right: 0;
+  margin-left: 0;
+  background: inherit;
+  cursor: default;
+}
+
+.pagify-pagination .ellipsis span {
+  cursor: default;
+}
+
+.pagify-pagination {
+  margin: 1.5em 0 1.5em 0;
+  padding: 0;
+}
+
+div.float-right {
+  float: right;
+}

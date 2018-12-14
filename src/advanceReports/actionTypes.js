@@ -1,0 +1,36 @@
+/**
+ * Copyright  ( C )  2016-2017 GetMyParking - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential.
+ */
+
+/*
+ * This file contains all tha action types used in reports to set state
+ * */
+
+// Action type to set state according to the usage
+const SET_DATA_DUMP_INITIAL_DATE_TIME_RANGE = `advanceReports/SET_DATA_DUMP_INITIAL_DATE_TIME_RANGE`;
+const SET_REPORT_SUB_FILTER = `advanceReports/SET_REPORT_SUB_FILTER`;
+const SET_REPORT_EXCEL_FILE_NAME = `advanceReports/SET_REPORT_EXCEL_FILE_NAME`;
+const SET_CURRENT_MONTH_DATE_RANGE = `advanceReports/SET_CURRENT_MONTH_DATE_RANGE`;
+const SET_REPORT_ON_SUCCESS = `advanceReports/SET_REPORT_ON_SUCCESS`;
+const ON_CHANGE_DATE_TIME_PICKER = `advanceReports/ON_CHANGE_DATE_TIME_PICKER`;
+const ON_CHANGE_FILTER_SUCCESS = `advanceReports/ON_CHANGE_FILTER_SUCCESS`;
+const SET_REVENUE_REPORT_VEHICLE_TYPE_GRAPH = '@@advanceReports/SET_REVENUE_REPORT_VEHICLE_TYPE_GRAPH';
+const REVENUE_REPORT_PAYMENT_MODE_PIE_CHART_TOGGLED = '@@advanceReports/REVENUE_REPORT_PAYMENT_MODE_PIE_CHART_TOGGLED';
+const REVENUE_REPORT_PAYMENT_MODE_BAR_CHART_TOGGLED = '@@advanceReports/REVENUE_REPORT_PAYMENT_MODE_BAR_CHART_TOGGLED';
+
+
+// Exporting all constant
+export default {
+    SET_DATA_DUMP_INITIAL_DATE_TIME_RANGE,
+    SET_REPORT_SUB_FILTER,
+    SET_REPORT_EXCEL_FILE_NAME,
+    SET_CURRENT_MONTH_DATE_RANGE,
+    SET_REPORT_ON_SUCCESS,
+    ON_CHANGE_FILTER_SUCCESS,
+    SET_REVENUE_REPORT_VEHICLE_TYPE_GRAPH,
+    ON_CHANGE_DATE_TIME_PICKER,
+    REVENUE_REPORT_PAYMENT_MODE_BAR_CHART_TOGGLED,
+    REVENUE_REPORT_PAYMENT_MODE_PIE_CHART_TOGGLED
+};

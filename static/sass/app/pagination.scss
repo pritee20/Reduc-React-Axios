@@ -1,0 +1,38 @@
+.pagify-pagination {
+  margin: 1em;
+  padding: 0;
+}
+
+.pagify-pagination div {
+  display: inline;
+}
+
+.pagify-pagination span {
+  margin: 0;
+  margin-right: 1em;
+  padding: 0.5em;
+  cursor: pointer;
+  background: #ddd;
+}
+
+.pagify-pagination .disabled span {
+  opacity: .4;
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.pagify-pagination .ellipsis {
+  margin-right: 1em;
+  background: inherit;
+  cursor: default;
+}
+
+.pagify-pagination a {
+  text-decoration: none;
+}
+
+.pagify-pagination .selected span {
+  background: #222;
+  color: #eee;
+  cursor: default;
+}
