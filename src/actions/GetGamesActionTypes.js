@@ -1,0 +1,1 @@
+export const  SET_GAMES_LIST = 'SET_GAMES_LIST';
